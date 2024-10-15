@@ -1,2 +1,2 @@
-# Tuas-6-Game-
+# Tugas-6-Game-
 Tic Tac Toe
